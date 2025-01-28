@@ -7,9 +7,9 @@ Upload an image, get structured LaTeX code, and simplify academic writing!  🚀
 ![image](https://github.com/user-attachments/assets/ff27faf0-d63d-463d-8c19-6683ccc18d17)
 
 ### Get instantaneous conversions from hand-writing to LateX!
-![image](https://github.com/user-attachments/assets/ce0df5ef-84fa-49e4-944e-847052f20775)
+![image](https://github.com/user-attachments/assets/f212eccb-e2e6-4002-a23e-a1a9349f8f9c)
 
-![image](https://github.com/user-attachments/assets/6f770a7e-c5c8-4fb6-b851-1422458733fa)
+
 
 
 ### Be able to copy the LateX code for further modifications
